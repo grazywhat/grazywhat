@@ -41,7 +41,11 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=grazywhat&theme=visual_studio_dark&column=4" alt="GitHub Достижения" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=grazywhat&show_icons=true&theme=visual_studio_dark&include_all_commits=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=grazywhat&layout=compact&theme=visual_studio_dark"/>
 </p>
 
 ---
