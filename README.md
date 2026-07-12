@@ -9,7 +9,7 @@
 *   **[Bluez](https://t.me/GnomeRobot)** — Профессиональная коммерческая платформа для автоматизации продаж ИТ-услуг и управления фриланс-командами. Уже доступна в ранней версии!
     
     ![Разработка](https://img.shields.io/badge/Progress-35%25-orange?style=flat)
-    ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&omega;Color=white)
+    ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
@@ -31,6 +31,17 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![VPS](https://img.shields.io/badge/VPS_Hosting-0051C4?style=for-the-badge&logo=server&logoColor=white)
+
+---
+
+## 🤖 Использование ИИ (AI Stack)
+
+Активно интегрирую современные нейросети в свои рабочие процессы для ускорения разработки, оптимизации архитектуры и быстрого решения сложных технических задач.
+
+*   **Gemini** — Мой основной ежедневный ассистент. Использую для написания и рефакторинга кода, обучения, быстрых ответов на технические вопросы и повседневной помощи.
+*   **ChatGPT** — Архитектурный консультант. Применяю для проектирования сложных систем (таких как REDO) и глубокого разбора редких, специфических ошибок в коде.
+*   **Grok** — Технический новостной радар и помощник по компиляции программных компонентов.
+*   **DeepSeek** — Инструмент для работы со сложными академическими, исследовательскими и текстовыми материалами.
 
 ---
 
@@ -86,8 +97,8 @@
     *   The Is Coffe 3 [Not Released] ![Сюжет](https://img.shields.io/badge/Plot-10%25-yellowgreen?style=flat)
     *   Flash ![Сюжет](https://img.shields.io/badge/Plot-15%25-yellow?style=flat)
     *   Protect Pikacky ![Сюжет](https://img.shields.io/badge/Plot-15%25-yellow?style=flat)
-    *   FNAS ![Сюжет](https://img.shields.io/badge/Plot-25%25-green?style=flat)
-    *   FNAS 2 ![Сюжет](https://img.shields.io/badge/Plot-20%25-green?style=flat)
+    *   FNAS [US COLLAB WITH COMPANY Foxichek Entertainment] ![Сюжет](https://img.shields.io/badge/Plot-25%25-green?style=flat)
+    *   FNAS 2 [US COLLAB WITH COMPANY Foxichek Entertainment] ![Сюжет](https://img.shields.io/badge/Plot-20%25-green?style=flat)
     *   FNAS 3 ![Сюжет](https://img.shields.io/badge/Plot-10%25-yellowgreen?style=flat)
 
 ---
