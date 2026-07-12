@@ -32,6 +32,7 @@
 
 ## 🎯 Взгляд в будущее
 После старта коммерческой карьеры планирую ворваться в геймдев. В планах разработка браузерных проектов и освоение движка **Godot**. 🎮
+
 ![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ---
