@@ -4,8 +4,12 @@
 
 ---
 
-## 🚀 Текущий фокус
-Прямо сейчас я активно разрабатываю **Bluez** — профессиональную коммерческую платформу для автоматизации продаж ИТ-услуг и управления фриланс-командами.
+## 🚀 Текущий фокус и коммерческие проекты
+
+*   **[Bluez](https://t.me/GnomeRobot)** — Профессиональная коммерческая платформа для автоматизации продаж ИТ-услуг и управления фриланс-командами. Уже доступна в ранней версии!
+    
+    ![Разработка](https://img.shields.io/badge/Progress-35%25-orange?style=flat)
+    ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&omega;Color=white)
 
 ---
 
@@ -30,27 +34,66 @@
 
 ---
 
-## 🎯 Взгляд в будущее
-После старта коммерческой карьеры планирую ворваться в геймдев. В планах разработка браузерных проектов и освоение движка **Godot**. 🎮
+## 📑 Будущие ИТ-проекты (В планах)
+
+### 🌐 Экосистема REDO
+Супер-функциональная замена Slack, объединяющая 8 специализированных сервисов и ядро управления.
+
+*   **Redo** — Центральная кроссплатформенная платформа (Web, Desktop, Mobile, Telegram). ![Проектирование](https://img.shields.io/badge/Status-15%25-yellow?style=flat)
+*   **Kode** — Интегрированный ИИ-ассистент. ![Архитектура](https://img.shields.io/badge/Status-10%25-yellowgreen?style=flat)
+*   **Deco** — Универсальный конвертер файлов и баз данных. ![Архитектура](https://img.shields.io/badge/Status-10%25-yellowgreen?style=flat)
+*   **Clip** — Мощный медиаредактор для фото и видео. ![Концепт](https://img.shields.io/badge/Status-5%25-red?style=flat)
+*   **Task** — Умный менеджер задач и планировщик. ![Архитектура](https://img.shields.io/badge/Status-15%25-yellow?style=flat)
+*   **Awac** — Музыкальный плеер и будильник с облачной синхронизацией. ![Концепт](https://img.shields.io/badge/Status-5%25-red?style=flat)
+*   **Note** — Текстовый редактор заметок с Vim-раскладкой и подсветкой синтаксиса. ![Архитектура](https://img.shields.io/badge/Status-15%25-yellow?style=flat)
+*   **Maze** — Защищенное облачное хранилище данных экосистемы. ![Архитектура](https://img.shields.io/badge/Status-10%25-yellowgreen?style=flat)
+*   **Lang** — Профессиональный сервис перевода. ![Концепт](https://img.shields.io/badge/Status-5%25-red?style=flat)
+
+### 🔒 Инфраструктура и Веб
+*   **MallowVPN** — Отказоустойчивый VPN-сервис с умными алгоритмами обхода блокировок. ![Концепт](https://img.shields.io/badge/Status-10%25-yellowgreen?style=flat)
+*   **JuicyHub** — Высоконагруженная онлайн-библиотека азиатских новелл и манги. ![Концепт](https://img.shields.io/badge/Status-10%25-yellowgreen?style=flat)
+*   **Персональный сайт-портфолио** — Интерактивная визитка с описанием услуг и стека. ![Дизайн](https://img.shields.io/badge/Status-5%25-red?style=flat)
+
+### 💻 Системная разработка
+*   **DeltaOS (на базе концепции BlendOS)** — Собственная операционная система с эстетичным UI в стиле macOS, продвинутой оптимизацией и пакетным менеджером, группирующим софт под конкретные профессии. ![Идея](https://img.shields.io/badge/Status-5%25-red?style=flat)
+
+---
+
+## 🎮 Геймдев-лаборатория (Концепты и планы)
+
+Планирую разрабатывать графические хорроры и аркады на движке Godot, а симуляторы жизни — на веб-технологиях для кроссплатформенного доступа.
 
 ![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
+*   **Racing Cars Adventures (Godot)** — Сюжетная аркада о противостоянии гоночной машинки и всемогущей сущности Mister Collapse. ![Сюжет](https://img.shields.io/badge/Plot-25%25-green?style=flat)
+*   **Линейка It's SvipS (Web)** — Серия детализированных симуляторов жизни:
+    *   It's SvipS Alpha ![Идея](https://img.shields.io/badge/Status-15%25-yellow?style=flat)
+    *   It's SvipS ![Концепт](https://img.shields.io/badge/Status-5%25-red?style=flat)
+    *   It's SvipS 2 ![Концепт](https://img.shields.io/badge/Status-5%25-red?style=flat)
+    *   It's SvipS only ![Концепт](https://img.shields.io/badge/Status-5%25-red?style=flat)
+*   **Хоррор-вселенные (FNaF-пародии и коллаборации):**
+    *   One Hour at Mille 1 ![Сюжет](https://img.shields.io/badge/Plot-20%25-green?style=flat)
+    *   One Hour at Mille 2 ![Сюжет](https://img.shields.io/badge/Plot-20%25-green?style=flat)
+    *   One Hour at Mille 3 ![Сюжет](https://img.shields.io/badge/Plot-15%25-yellow?style=flat)
+    *   One Hour at Mille 4 ![Сюжет](https://img.shields.io/badge/Plot-15%25-yellow?style=flat)
+    *   The New Time at Pikacky 1 ![Сюжет](https://img.shields.io/badge/Plot-20%25-green?style=flat)
+    *   The Old Time at Pikacky 2 ![Сюжет](https://img.shields.io/badge/Plot-20%25-green?style=flat)
+    *   The Scrap Time at Pikacky 3 [Not Released] ![Сюжет](https://img.shields.io/badge/Plot-15%25-yellow?style=flat)
+    *   Galaxy and Bloxy 1 ![Сюжет](https://img.shields.io/badge/Plot-20%25-green?style=flat)
+    *   Galaxy and Bloxy 2 ![Сюжет](https://img.shields.io/badge/Plot-15%25-yellow?style=flat)
+    *   The Is Coffe 1 ![Сюжет](https://img.shields.io/badge/Plot-20%25-green?style=flat)
+    *   The Is Coffe 2 ![Сюжет](https://img.shields.io/badge/Plot-20%25-green?style=flat)
+    *   The Is Coffe 3 [Not Released] ![Сюжет](https://img.shields.io/badge/Plot-10%25-yellowgreen?style=flat)
+    *   Flash ![Сюжет](https://img.shields.io/badge/Plot-15%25-yellow?style=flat)
+    *   Protect Pikacky ![Сюжет](https://img.shields.io/badge/Plot-15%25-yellow?style=flat)
+    *   FNAS ![Сюжет](https://img.shields.io/badge/Plot-25%25-green?style=flat)
+    *   FNAS 2 ![Сюжет](https://img.shields.io/badge/Plot-20%25-green?style=flat)
+    *   FNAS 3 ![Сюжет](https://img.shields.io/badge/Plot-10%25-yellowgreen?style=flat)
+
 ---
 
-## 📊 Моя статистика GitHub
-
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=grazywhat&show_icons=true&theme=visual_studio_dark&include_all_commits=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=grazywhat&layout=compact&theme=visual_studio_dark"/>
-</p>
-
----
-
-## 💬 Связаться со мной
-Пишите мне напрямую в Telegram. Это самый быстрый и надежный способ связи, так как почту и другие соцсети я не проверяю.
+## 💬 Связь и подписка
+Самый быстрый способ обсудить идеи — Telegram. А чтобы следить за моими проектами, подписывайтесь на мой профиль здесь, на GitHub!
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MEOW_MUR920)
+[![GitHub Подписаться](https://img.shields.io/badge/GitHub-Подписаться-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grazywhat)
