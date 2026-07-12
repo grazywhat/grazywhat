@@ -39,14 +39,9 @@
 
 ## 📊 Моя статистика GitHub
 
-*(Не забудь заменить `grazywhat` на свой никнейм в ссылках ниже, если они отличаются)*
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=grazywhat&show_icons=true&theme=visual_studio_dark&include_all_commits=true" alt="GitHub Статистика" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=grazywhat&layout=compact&theme=visual_studio_dark" alt="Используемые языки" />
+  <img src="https://github-profile-trophy.vercel.app/?username=grazywhat&theme=visual_studio_dark&column=4" alt="GitHub Достижения" />
 </p>
 
 ---
