@@ -1,6 +1,6 @@
 # 👋 Привет, я Игорь!
 
-⚡ **Fullstack-архитектор** • Создаю надёжный код и стильный дизайн.
+⚡ **Fullstack-архитектор** • Создаю надёжный код и стильный дизайн в духе **цифрового футуризма**. Верю, что интерфейсы должны выглядеть технологично, а системы — работать безупречно.
 
 ---
 
@@ -9,7 +9,7 @@
 *   **[Bluez](https://t.me/GnomeRobot)** — Профессиональная коммерческая платформа для автоматизации продаж ИТ-услуг и управления фриланс-командами. Уже доступна в ранней версии!
     
     ![Разработка](https://img.shields.io/badge/Progress-35%25-orange?style=flat)
-    ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+    ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&omegaColor=white)
 
 ---
 
@@ -60,12 +60,18 @@
 *   **Maze** — Защищенное облачное хранилище данных экосистемы. ![Архитектура](https://img.shields.io/badge/Status-10%25-yellowgreen?style=flat)
 *   **Lang** — Профессиональный сервис перевода. ![Концепт](https://img.shields.io/badge/Status-5%25-red?style=flat)
 
-### 🔒 Инфраструктура и Веб
+### 🛠 Open-Source Инструменты и Фреймворки
+*   **BotSynch** — Многоплатформенный Java-фреймворк для Spring Boot, абстрагирующий работу с различными Bot API. Позволяет писать логику один раз и бесшовно разворачивать бота сразу на несколько платформ (Telegram, VK и др.). ![Архитектура](https://img.shields.io/badge/Status-10%25-yellowgreen?style=flat)
+
+### 🔒 Инфраструктура, Веб и Автоматизация
+*   **IfAD** — Высоконагруженный Telegram-бот для автоматизации пиара и рекламы с масштабной базой интеграции (2000+ каналов и групп) и встроенной системой монетизации. ![Проектирование](https://img.shields.io/badge/Status-15%25-yellow?style=flat)
+*   **Search?** — Асинхронный бот-агрегатор для сквозного поиска каналов, сообществ и групп в реальном времени по более чем 20 социальным сетям. ![Концепт](https://img.shields.io/badge/Status-5%25-red?style=flat)
 *   **MallowVPN** — Отказоустойчивый VPN-сервис с умными алгоритмами обхода блокировок. ![Концепт](https://img.shields.io/badge/Status-10%25-yellowgreen?style=flat)
 *   **JuicyHub** — Высоконагруженная онлайн-библиотека азиатских новелл и манги. ![Концепт](https://img.shields.io/badge/Status-10%25-yellowgreen?style=flat)
-*   **Персональный сайт-портфолио** — Интерактивная визитка с описанием услуг и стека. ![Дизайн](https://img.shields.io/badge/Status-5%25-red?style=flat)
+*   **Персональный сайт-портфолио** — Интерактивная веб-визитка с описанием услуг, стека и шоукейсом проектов. ![Дизайн](https://img.shields.io/badge/Status-5%25-red?style=flat)
 
-### 💻 Системная разработка
+### 💻 Системная разработка и Кастомизация
+*   **Grazy's Linux** — Публичный репозиторий моих конфигураций окружения (GNOME dotfiles), системных треков blendOS, тем оформления и кастомных футуристичных обоев. ![Реализовано](https://img.shields.io/badge/Status-100%25-brightgreen?style=flat)
 *   **DeltaOS (на базе концепции BlendOS)** — Собственная операционная система с эстетичным UI в стиле macOS, продвинутой оптимизацией и пакетным менеджером, группирующим софт под конкретные профессии. ![Идея](https://img.shields.io/badge/Status-5%25-red?style=flat)
 
 ---
@@ -106,5 +112,5 @@
 ## 💬 Связь и подписка
 Самый быстрый способ обсудить идеи — Telegram. А чтобы следить за моими проектами, подписывайтесь на мой профиль здесь, на GitHub!
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MEOW_MUR920)
+[![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/MEOW_MUR920](https://t.me/MEOW_MUR920))
 [![GitHub Подписаться](https://img.shields.io/badge/GitHub-Подписаться-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grazywhat)
